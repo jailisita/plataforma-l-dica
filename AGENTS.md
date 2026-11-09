@@ -4,7 +4,7 @@ Contexto del proyecto para los agentes de IA. Léalo antes de cualquier cambio.
 
 ## Proyecto
 
-Plataforma web lúdica de cursos para niños. Curso: (complete). Mecánica: (complete).
+Plataforma web lúdica de cursos para niños. Curso: Matemáticas. Mecánica: Misiones e insignias.
 Roles: docente y niño. El niño entra con código de clase y avatar, sin correo.
 
 ## Stack
@@ -39,7 +39,7 @@ Roles: docente y niño. El niño entra con código de clase y avatar, sin correo
 - No escribir claves ni contraseñas en el código: se leen de variables de entorno.
 - No instalar dependencias sin verificar que existen en pypi.org.
 - No modificar ni borrar pruebas para que pasen.
-- No usar datos personales reales.
+- No usar datos personales reales de estudiantes; el nombre del aprendiz indicado para identificar el proyecto es la única excepción autorizada.
 
 ## Lecciones aprendidas
 

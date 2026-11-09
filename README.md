@@ -2,8 +2,8 @@
 
 Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con FastAPI.
 
-- **Aprendiz:** Nombre Apellido
-- **Curso y mecánica:** (complete)
+- **Aprendiz:** Jailiss Michell Gomez Llerena
+- **Curso y mecánica:** Matemáticas — Misiones e insignias
 - **Aplicación publicada:** (complete con la URL de Render)
 
 ## Ejecutar en su equipo
